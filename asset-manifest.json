@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.824fdbfa.chunk.css",
+    "main.js": "/portfolio/static/js/main.6af3e7ce.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6af3e7ce.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8940859c.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8940859c.js.map",
+    "static/js/2.5f3690b9.chunk.js": "/portfolio/static/js/2.5f3690b9.chunk.js",
+    "static/js/2.5f3690b9.chunk.js.map": "/portfolio/static/js/2.5f3690b9.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f34b7a19f83f7f617c32aee91644aa2e.js": "/portfolio/precache-manifest.f34b7a19f83f7f617c32aee91644aa2e.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.824fdbfa.chunk.css.map": "/portfolio/static/css/main.824fdbfa.chunk.css.map",
+    "static/js/2.5f3690b9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5f3690b9.chunk.js.LICENSE.txt",
+    "static/media/Font Awesome 5 Pro Solid.woff": "/portfolio/static/media/Font Awesome 5 Pro Solid.418708e7.woff",
+    "static/media/andela.png": "/portfolio/static/media/andela.74e4688b.png",
+    "static/media/derrick.jpg": "/portfolio/static/media/derrick.1c84753d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8940859c.js",
+    "static/js/2.5f3690b9.chunk.js",
+    "static/css/main.824fdbfa.chunk.css",
+    "static/js/main.6af3e7ce.chunk.js"
+  ]
+}
